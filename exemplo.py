@@ -8,3 +8,6 @@ print (nome)
 
 idade = int(input("Digite sua idade: "))
 print("Seu nome é: ", nome, "e sua idade é:", idade)
+
+curso = "Python desenvolvedor"
+print("Curso:", curso)
